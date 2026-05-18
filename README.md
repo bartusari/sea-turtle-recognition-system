@@ -10,10 +10,14 @@ Deniz kaplumbağalarının korunması ve takibi süreçlerinde tür tayini kriti
 
 <img src="screenshots/1.jpg" width="600">
 <br><br>
+
 ---
+
 <img src="screenshots/2.jpg" width="600">
 <br><br>
+
 ---
+
 <img src="screenshots/3.jpg" width="600">
 
 ## 🚀 Öne Çıkan Özellikler
