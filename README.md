@@ -72,7 +72,7 @@ py -m streamlit run src/app.py
 
 ```Plaintext
 SeaTurtleRecognition/
-├── proje_data/                 # Bölünmüş veri seti (Train/Val/Test)
+├── project_data/                 # Bölünmüş veri seti (Train/Val/Test)
 ├── src/
 │   ├── app.py                  # Streamlit Web arayüzü
 │   ├── train_ai.py             # Eğitim scripti
